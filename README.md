@@ -1,4 +1,4 @@
-"""# Fraud Detection Model Summary
+# Fraud Detection Model Summary
 
 This project aimed to build a robust machine learning model to identify fraudulent transactions effectively. Through data preprocessing, feature scaling, and balanced sampling, we refined our dataset for optimal model performance. Multiple models were trained, and the **Random Forest Classifier** demonstrated the highest predictive power.
 
